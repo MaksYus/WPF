@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf_Autorisation", "Wpf_Autorisation\Wpf_Autorisation.csproj", "{4DF16AF6-9EBA-4DCF-88EC-7393113C71CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DF16AF6-9EBA-4DCF-88EC-7393113C71CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DF16AF6-9EBA-4DCF-88EC-7393113C71CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DF16AF6-9EBA-4DCF-88EC-7393113C71CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DF16AF6-9EBA-4DCF-88EC-7393113C71CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0E451F5-6E5D-44E8-8808-66467C7FC708}
+	EndGlobalSection
+EndGlobal
